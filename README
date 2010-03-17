@@ -1,0 +1,8 @@
+A bunch of miscellaneous utilities/fun programs I've written over the years.
+All of these are for unix-like systems.
+
+chroot-break.c - Used to break out of a chroot that you have root in
+kirby.c - Shows a dancing ASCII Kirby
+sizeof.c - Print the size of various types on the system
+
+These are all distributed under the terms of the WTFPL (see COPYING).
